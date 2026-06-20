@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " klasowyser.aternos.me",
+    "ip": "klasowyser.aternos.me",
     "port": 49985,
     "version": "1.21.11",
     "try-creative": false
